@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Profile](https://s3.amazonaws.com/shecodesio-production/uploads/files/000/100/763/original/_removal.ai__4b1ec56a-ed50-4edb-b243-c61df1aa69d0-github-readme_AAXDZO.png?1697404167)
 <!--
 **LwynnF/LwynnF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
